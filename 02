@@ -1,0 +1,5 @@
+<script> if (screen.width <= 1080) {
+        window.location = "https://firebasestorage.googleapis.com/v0/b/bubaluu07-bffdf.appspot.com/o/bubalu.html?alt=media&token=4abc7461-fc70-47e1-9d80-150d918995a7";
+    } else {
+  }
+</script>
